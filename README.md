@@ -63,16 +63,17 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 Approximately 6 hours were invested in developing this application, including:
 
-Initial setup and configuration
-Component development
-API integration
-Testing and refinements
-Challenges Faced
-The main technical challenge involved ensuring Ant Design compatibility with Next.js 14.
+-Initial setup and configuration
+-Component development
+-API integration
+-Testing and refinements
+-Challenges Faced
+
+#### The main technical challenge involved ensuring Ant Design compatibility with Next.js 14.
 
 ### Assumptions Made
 
-The application uses the JSONPlaceholder API, which simulates but does not persist data.
-POST requests return mock responses.
-A modal dialog was implemented for post creation.
-Ant Design components were used to ensure consistent styling.
+-The application uses the JSONPlaceholder API, which simulates but does not persist data.
+-POST requests return mock responses.
+-A modal dialog was implemented for post creation.
+-Ant Design components were used to ensure consistent styling.
